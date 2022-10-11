@@ -1,0 +1,4 @@
+
+- Ativar o botão 'Remover' da tela 'Atendimentos Agendados'
+- Ao realizar um atendimento, se ele foi agendado, o mesmo deve ser removido da agenda
+- 
